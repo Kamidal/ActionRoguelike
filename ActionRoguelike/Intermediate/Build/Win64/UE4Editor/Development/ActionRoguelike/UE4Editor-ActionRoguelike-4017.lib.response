@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ActionRoguelike-4017.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\ActionRoguelikeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\SCharacter.cpp.obj"
+"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\ActionRoguelike.cpp.obj"
+"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\ActionRoguelikeGameModeBase.cpp.obj"
+"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\ActionRoguelike.init.gen.cpp.obj"
+"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\ActionRoguelikeGameModeBase.gen.cpp.obj"
+"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\SCharacter.gen.cpp.obj"
+"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\Default.rc2.res"
+/OUT:"D:\Users\KanDall\Documents\GitHub\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\UE4Editor-ActionRoguelike-4017.lib"
